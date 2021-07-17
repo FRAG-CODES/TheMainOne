@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FRAGILE-CODE
+- 👋 Hi, I’m @FRAG-CODES
 - 👀 I’m interested in JavaScript Development
 - 🌱 I’m currently learning Diferent Frameworks and Libraries of JS
 - 💞️ I’m looking to collaborate on any project of JS, HTML and CSS
